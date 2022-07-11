@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+        "titulo": "Dragon Ball",
+        "categoria": "Acción",
+        "duracion": "6 temporadas",
+        "imagen": "#"
+    },
+    {
+        "id": 2,
+        "titulo": "Naruto",
+        "categoria": "Acción",
+        "duracion": "9 temporadas",
+        "imagen": "#"
+    },
+    {
+        "id": 3,
+        "titulo": "One Piece",
+        "categoria": "20 temporadas",
+        "duracion": "#",
+        "imagen": "#"
+    },
+    {
+        "id": 4,
+        "titulo": "Dr stone",
+        "categoria": "Aventura",
+        "duracion": "3",
+        "imagen": "#"
+    },
+    {
+        "id": 5,
+        "titulo": "Inuyasha",
+        "categoria": "Aventura",
+        "duracion": "6 temporadas",
+        "imagen": "#"
+    },
+    {
+        "id": 6,
+        "titulo": "SAO",
+        "categoria": "Aventura",
+        "duracion": "5 temporadas",
+        "imagen": "#"
+    },
+    {
+        "id": 7,
+        "titulo": "Gokushufudo",
+        "categoria": "Comedia",
+        "duracion": "2 temporadas",
+        "imagen": "#"
+    },
+    {
+        "id": 8,
+        "titulo": "Jojos Bizzarre Adventure",
+        "categoria": "Comedia",
+        "duracion": "4 temporadas",
+        "imagen": "#"
+    },
+    {
+        "id": 9,
+        "titulo": "Lucky star",
+        "categoria": "Comedia",
+        "duracion": "1 temporada",
+        "imagen": "#"
+    },
+    {
+        "id": 10,
+        "titulo": "Charlotte",
+        "categoria": "Drama",
+        "duracion": "1 temporada",
+        "imagen": "#"
+    },
+    {
+        "id": 11,
+        "titulo": "Clannad",
+        "categoria": "Drama",
+        "duracion": "1 temporada",
+        "imagen": "#"
+    },
+    {
+        "id": 12,
+        "titulo": "Shingeki no kyojin",
+        "categoria": "Drama",
+        "duracion": "5 temporadas",
+        "imagen": "#"
+    },
+    {
+        "id": 13,
+        "titulo": "Another",
+        "categoria": "Horror",
+        "duracion": "1 temporada",
+        "imagen": "#"
+    },
+    {
+        "id": 14,
+        "titulo": "High School of death",
+        "categoria": "Horror",
+        "duracion": "1 temporada",
+        "imagen": "#"
+    },
+    {
+        "id": 15,
+        "titulo": "Tokyo Ghoul",
+        "categoria": "Horror",
+        "duracion": "3 temporadas",
+        "imagen": "#"
+    },
+    {
+        "id": 16,
+        "titulo": "Kaichou wa maid sama",
+        "categoria": "Romance",
+        "duracion": "1 temporada",
+        "imagen": "#"
+    },
+    {
+        "id": 17,
+        "titulo": "Toradora",
+        "categoria": "Romance",
+        "duracion": "1 temporada",
+        "imagen": "#"
+    },
+    {
+        "id": 18,
+        "titulo": "Your lie in april",
+        "categoria": "Romance",
+        "duracion": "1 temporada",
+        "imagen": "#"
+    }
+]
