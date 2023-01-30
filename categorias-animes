@@ -1,0 +1,110 @@
+[
+    {
+        "id": "1",
+        "nombre": "Dragon Ball",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In at porta ex. Praesent scelerisque ultricies finibus. Quisque pretium justo sed sagittis luctus.", 
+        "imagen": ""
+    },
+    {
+        "id": "2",
+        "nombre": "Naruto",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In at porta ex. Praesent scelerisque ultricies finibus. Quisque pretium justo sed sagittis luctus.", 
+        "imagen": ""
+    },
+    {
+        "id": "3",
+        "nombre": "One Piece",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In at porta ex. Praesent scelerisque ultricies finibus. Quisque pretium justo sed sagittis luctus.", 
+        "imagen": ""
+    },
+    {
+        "id": "4",
+        "nombre": "Dr Stone",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In at porta ex. Praesent scelerisque ultricies finibus. Quisque pretium justo sed sagittis luctus.", 
+        "imagen": ""
+    },
+    {
+        "id": "5",
+        "nombre": "Inuyasha",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In at porta ex. Praesent scelerisque ultricies finibus. Quisque pretium justo sed sagittis luctus.", 
+        "imagen": ""
+    },
+    {
+        "id": "6",
+        "nombre": "SAO",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In at porta ex. Praesent scelerisque ultricies finibus. Quisque pretium justo sed sagittis luctus.", 
+        "imagen": ""
+    },
+    {
+        "id": "7",
+        "nombre": "Gokushufundo",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In at porta ex. Praesent scelerisque ultricies finibus. Quisque pretium justo sed sagittis luctus.", 
+        "imagen": ""
+    },
+    {
+        "id": "8",
+        "nombre": "JoJo's",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In at porta ex. Praesent scelerisque ultricies finibus. Quisque pretium justo sed sagittis luctus.", 
+        "imagen": ""
+    },  
+    {
+        "id": "9",
+        "nombre": "Lucky Star",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In at porta ex. Praesent scelerisque ultricies finibus. Quisque pretium justo sed sagittis luctus.", 
+        "imagen": ""
+    },  
+    {
+        "id": "10",
+        "nombre": "Charlotte",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In at porta ex. Praesent scelerisque ultricies finibus. Quisque pretium justo sed sagittis luctus.", 
+        "imagen": ""
+    },  
+    {
+        "id": "11",
+        "nombre": "Clannad",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In at porta ex. Praesent scelerisque ultricies finibus. Quisque pretium justo sed sagittis luctus.", 
+        "imagen": ""
+    },  
+    {
+        "id": "12",
+        "nombre": "Shungeki",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In at porta ex. Praesent scelerisque ultricies finibus. Quisque pretium justo sed sagittis luctus.", 
+        "imagen": ""
+    },  
+    {
+        "id": "13",
+        "nombre": "Another",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In at porta ex. Praesent scelerisque ultricies finibus. Quisque pretium justo sed sagittis luctus.", 
+        "imagen": ""
+    },  
+    {
+        "id": "14",
+        "nombre": "High School of dead",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In at porta ex. Praesent scelerisque ultricies finibus. Quisque pretium justo sed sagittis luctus.", 
+        "imagen": ""
+    },  
+    {
+        "id": "15",
+        "nombre": "Tokyo Ghoul",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In at porta ex. Praesent scelerisque ultricies finibus. Quisque pretium justo sed sagittis luctus.", 
+        "imagen": ""
+    },  
+    {
+        "id": "16",
+        "nombre": "Kaichou wa maid sama",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In at porta ex. Praesent scelerisque ultricies finibus. Quisque pretium justo sed sagittis luctus.", 
+        "imagen": ""
+    },  
+    {
+        "id": "17",
+        "nombre": "Toradora",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In at porta ex. Praesent scelerisque ultricies finibus. Quisque pretium justo sed sagittis luctus.", 
+        "imagen": ""
+    },  
+    {
+        "id": "18",
+        "nombre": "Your lie in april",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In at porta ex. Praesent scelerisque ultricies finibus. Quisque pretium justo sed sagittis luctus.", 
+        "imagen": ""
+    }
+]
