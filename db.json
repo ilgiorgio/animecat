@@ -1,17 +1,17 @@
 {
   "animes" :  [
         {
-              "id": "1",
+              "id" : "1",
               "nombre": "Dragon Ball",
               "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In at porta ex. Praesent scelerisque ultricies finibus. Quisque pretium justo sed sagittis luctus.", 
               "imagen": ""
         },  {
-              "id": "2",
+              "id" : "2",
               "nombre": "Naruto",
               "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In at porta ex. Praesent scelerisque ultricies finibus. Quisque pretium justo sed sagittis luctus.", 
               "imagen": ""
         },  {
-              "id": "3",
+              "id" : "3",
               "nombre": "One Piece",
               "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In at porta ex. Praesent scelerisque ultricies finibus. Quisque pretium justo sed sagittis luctus.", 
               "imagen": ""
