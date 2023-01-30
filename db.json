@@ -1,35 +1,7 @@
-{
-    "frutas" : [
-        {
-            "id" : "1",
-            "nombre" : "Manzana",
-            "descripcion" : "Una manzana es una fruta comestible producida por un manzano. Los manzanos se cultivan en todo el mundo y son las especies más cultivadas del género Malus. El árbol se originó en Asia Central, donde todavía se encuentra su ancestro salvaje, Malus sieversii.",
-            "avatar" : "https://t1.uc.ltmcdn.com/es/posts/6/6/4/que_vitaminas_tiene_la_manzana_51466_orig.jpg"
-        }, {
-            "id" : "2",
-            "nombre" : "Pera",
-            "descripcion" : "Se denomina pera al fruto de distintas especies del género Pyrus, integrado por árboles caducifolios conocidos comúnmente como perales.​ Sin embargo, cuando se trata del fruto comestible, se hace referencia mayormente al producido por el llamado peral común.",
-            "avatar" : "https://www.prensalibre.com/wp-content/uploads/2019/09/fruit-1534494_960_720.jpg"
-        }, {
-            "id" : "3",
-            "nombre" : "Sandía",
-            "descripcion" : "Citrullus lanatus, comúnmente llamada melón de agua, sandía, acendría, sindria, patilla, es una especie de la familia Cucurbitaceae. Es originaria de África con una gran presencia y difusión en todo el mundo.",
-            "avatar" : "https://s1.eestatic.com/2021/08/18/ciencia/nutricion/605201362_200816273_1024x576.jpg"
-        }, {
-            "id" : "4",
-            "nombre" : "Frutilla",
-            "descripcion" : "La fresa o frutilla es un género de plantas rastreras estoloníferas de la familia Rosaceae. Agrupa unos 400 taxones descritos, de los cuales solo unos 20 están aceptados.​ Son cultivadas por su fruto comestible llamado de la misma manera: fresa o, en algunos países hispanoamericanos, frutilla.",
-            "avatar" : "https://cdn.portalfruticola.com/2020/03/1a3490e8-strawberries-1024x721.jpg"
-        }, {
-            "id" : "5",
-            "nombre" : "Melón",
-            "descripcion" : "Cucumis melo, llamado comúnmente melón, es una especie de la familia de las cucurbitáceas. Domesticada hace más de cuatro mil años en la región mediterránea oriental y Asia occidental, el origen exacto de la especie silvestre es aún desconocido.",
-            "avatar" : "https://dam.cocinafacil.com.mx/wp-content/uploads/2020/06/beneficios-de-melon.jpg"
-        }, {
-            "id" : "6",
-            "nombre" : "Uva",
-            "descripcion" : "La uva​ es la común denominación que reciben los frutos formados en los racimos de la vid.​​ Es usada mundialmente para su fermentación, ya que ésta da lugar al vino.​​​ Sembradas en viñas, crecen agrupadas en las parras de las vides entre seis y trescientas uvas por racimo.",
-            "avatar" : "https://cloudfront-eu-central-1.images.arcpublishing.com/prisaradio/RCUPOMZYAFN5RN4UB6BPPLHI7A.jpg"
-        }
-    ]
-}
+[
+    {   "id" : "1",
+        "nombre": "Dragon Ball",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In at porta ex. Praesent scelerisque ultricies finibus. Quisque pretium justo sed sagittis luctus.", 
+
+    },
+]
