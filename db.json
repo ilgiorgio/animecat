@@ -1,7 +1,4 @@
-[
-    {   "id" : "1",
-        "nombre": "Dragon Ball",
-        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In at porta ex. Praesent scelerisque ultricies finibus. Quisque pretium justo sed sagittis luctus.", 
-
-    },
-]
+{
+  "id": 1,
+  "title": "hello"
+}
